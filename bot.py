@@ -2,7 +2,7 @@
 import discord
 import youtube_dl
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzU3ODYzNDM0MDA3MjE2MTY5.X2mlUw.waZViDmt83u1gVw7N4aCg1DgEKY'
+TOKEN = 'トークンをここに入力'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
